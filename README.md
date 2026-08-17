@@ -21,7 +21,7 @@ Before flashing, ensure the target MCU is configured for Dual-Bank memory:
 
  2. RX Setup & Flashing
 Open your project and import the target firmware. The following instructions use `nfc_RX_noFreeRTOS` as an example:
-1. Copy the `Bootloader` folder into your project directory.
+1. Copy the `iap_ota` folder into your project directory.
 2. In your `main.c`, add the following line in the Private Includes section:
    ```c
    #include "iap_ota.h"
