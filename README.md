@@ -63,10 +63,9 @@ This example is developed and validated using the following hardware setup:
  TX Module
 | Description | Setup Image |
 | :--- | :--- |
-| **Power:** Insert mini USB power.<br>**Button 1:** Transfer firmware 1 (Example: `red.bin`)<br>**Button 2:** Transfer firmware 2 (Example: `green.bin`) | *(Upload your TX hardware setup image to GitHub and put the link here)* |
+| <ul><li>**Power:** Insert mini USB power.</li><li>**Button 1:** Transfer firmware 1 (Example: `red.bin`)</li><li>**Button 2:** Transfer firmware 2 (Example: `green.bin`)</li></ul> | *(Upload your TX hardware setup image to GitHub and put the link here)* |
 
  RX Module
 | Description | Setup Image |
 | :--- | :--- |
-| **Power:** Insert mini USB power. | *(Upload your RX power setup image to GitHub and put the link here)* |
-| **Operation:** Place the RX device antenna close to the TX antenna to begin the update process. | *(Upload your OTA operation image to GitHub and put the link here)* |
+| <ul><li>**Power:** Insert mini USB power.</li><li>**Operation:** Place the RX device antenna close to the TX antenna to begin the update process.</li></ul> | *(Upload your RX power setup image to GitHub and put the link here)* |
