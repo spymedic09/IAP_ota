@@ -58,14 +58,15 @@ This example is developed and validated using the following hardware setup:
 *   **TX (Transmitter):** STM32L476RG + X-NUCLEO-NFC06A1 NFC Expansion Board + Mikro 2x2 Key Click.
 *   **RX (Receiver):** STM32 Nucleo-L552ZE-Q + NXP OM2NTP5332 (NTAG 5).
 
+
  Settings
 
  TX Module
-| Description | Setup Image |
-| :--- | :--- |
-| <ul><li>**Power:** Insert mini USB power.</li><li>**Button 1:** Transfer firmware 1 (Example: `red.bin`)</li><li>**Button 2:** Transfer firmware 2 (Example: `green.bin`)</li></ul> | *(Upload your TX hardware setup image to GitHub and put the link here)* |
+| Description |
+| :--- |
+| <ul><li>**Power:** Insert mini USB power.</li><li>**Button 1:** Transfer firmware 1 (Example: `red.bin`)</li><li>**Button 2:** Transfer firmware 2 (Example: `green.bin`)</li></ul> |
 
  RX Module
-| Description | Setup Image |
-| :--- | :--- |
-| <ul><li>**Power:** Insert mini USB power.</li><li>**Operation:** Place the RX device antenna close to the TX antenna to begin the update process.</li></ul> | *(Upload your RX power setup image to GitHub and put the link here)* |
+| Description |
+| :--- |
+| <ul><li>**Power:** Insert mini USB power.</li><li>**Operation:** Place the RX device antenna close to the TX antenna to begin the update process.</li></ul> |
